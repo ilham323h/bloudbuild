@@ -1,5 +1,5 @@
 steps:
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -7,7 +7,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
 
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -15,7 +15,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
     
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -23,7 +23,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
 
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -31,7 +31,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
 
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -39,7 +39,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
 
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -47,7 +47,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
 
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -55,7 +55,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
 
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -63,7 +63,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
 
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
@@ -71,7 +71,7 @@ steps:
     waitFor: ["-"]
     entrypoint: /bin/bash
 
-  - name: ubuntu latest
+  - name: golang
     args: 
       - '-c'
       - >-
