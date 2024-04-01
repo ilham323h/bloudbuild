@@ -81,4 +81,4 @@ steps:
 timeout: 86000s
 options:
   machineType: 
-  diskSizeGb: '1000'
+  diskSizeGb: '100'
