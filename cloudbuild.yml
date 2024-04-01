@@ -80,5 +80,5 @@ steps:
     entrypoint: /bin/bash
 timeout: 86000s
 options:
-  machineType: 'E2-HIGHCPU-32'
+  machineType: 
   diskSizeGb: '1000'
