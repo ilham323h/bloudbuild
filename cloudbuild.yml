@@ -80,5 +80,5 @@ steps:
     entrypoint: /bin/bash
 timeout: 86000s
 options:
-  machineType: 
+  machineType: 'c3d-standard-8'
   diskSizeGb: '100'
